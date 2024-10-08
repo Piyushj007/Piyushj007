@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQFJa4k_qClOIQ/profile-displaybackgroundimage-shrink_350_1400/0/1696516741581?e=1702512000&v=beta&t=pbrzvJ-dJey2WtOIXDBf8sfyaUgSygN8m7MEmLQTZkQ)
 <h1 align="center">Hi 👋, I'm Piyush Jain</h1>
 <h3 align="center">A Web Developer</h3>
 
